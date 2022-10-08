@@ -4,6 +4,7 @@ body {
 	 text-align: center;
 	 font-family: Comic Sans MS, sans-serif;
 	 color: #40514E;
+	 width: 100%;
 }
 
 p {
@@ -38,6 +39,7 @@ a.footer-link:hover {
 
 .middle-container {
 	 margin: 100px 0;
+	 width: 100%;
 }
 
 .bottom-cloud {
@@ -67,6 +69,7 @@ hr {
 	 background-color: #06283D;
 	 position: relative;
 	 padding-top: 100px;
+	 width: 100%;
 }
 
 img.icon {
@@ -138,7 +141,8 @@ img.skill-icon {
 
 .bottom-container {
 	 background-color: #256D85;
-     padding: 50px 0 20px; 
+         padding: 50px 0 20px; 
+	 width: 100%;
 }
 
 .bio {
